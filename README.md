@@ -1,4 +1,4 @@
-# Caster
+# ProtoCaster
 
 The code is scary bad.
 
